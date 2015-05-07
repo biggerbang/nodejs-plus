@@ -1,6 +1,6 @@
 {
   "name": "nodejs-plus",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "private": false,
   "description": "Game server tools by nodejs",
   "dependencies": {
