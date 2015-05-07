@@ -1,7 +1,7 @@
 {
   "name": "nodejs-plus",
-  "version": "0.0.1",
-  "private": true,
+  "version": "0.0.2",
+  "private": false,
   "description": "Game server tools by nodejs",
   "dependencies": {
     "async": "0.2.5",
